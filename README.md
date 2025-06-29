@@ -1,5 +1,5 @@
 <h1 >I'm Aditya </h1>
-<h3 align="center">coding solutions</h3>
+<h3 align="center">coding real solutions</h3>
 
 
 - 🔭 I’m currently working on **an accountant and staffing company site using nextjs**
