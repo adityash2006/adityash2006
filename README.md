@@ -2,7 +2,7 @@
 <h3 align="center">coding real solutions</h3>
 
 
-- 🔭 I’m currently working on **an accountant and staffing company site using nextjs**
+- 🔭 I’m currently working on **personal portfolio and health management application**
 
 - 🌱 I’m currently learning **framer motion , ai integration frameworks**
 
